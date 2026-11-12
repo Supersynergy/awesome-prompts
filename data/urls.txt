@@ -26,3 +26,9 @@ https://github.com/langfuse/langfuse
 https://github.com/openai/evals
 https://github.com/microsoft/promptflow
 https://github.com/pisterlabs/promptset
+https://github.com/google-labs-code/jules-awesome-list
+https://github.com/rockbenben/ChatGPT-Shortcut
+https://github.com/microsoft/prompty
+https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts
+https://github.com/freestylefly/awesome-gpt-image-2
+https://www.youtube.com/watch?v=vD0E3EUb8-8

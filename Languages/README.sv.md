@@ -19,11 +19,11 @@
 
 </details>
 
-**28 resurser** · [🌐 Awesome Awesome](https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists) · [🧩💬 Relaterad lista](https://github.com/Supersynergy/awesome-skills) · [⭐ GitStars](https://gitstars.io/)
+**34 resurser** · [🌐 Awesome Awesome](https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists) · [🧩💬 Relaterad lista](https://github.com/Supersynergy/awesome-skills) · [⭐ GitStars](https://gitstars.io/)
 
 > Källbeskrivningarna är på engelska.
 
-**🧭** [📚 Promptbibliotek](#c-libraries) · [🧠 Guider](#c-guides) · [🏛️ Officiella kokböcker](#c-cookbooks) · [🎨 Kreativa promptar](#c-creative) · [🧪 Utvärdering och verktyg](#c-evaluation)
+**🧭** [📚 Promptbibliotek](#c-libraries) · [🧠 Guider](#c-guides) · [🏛️ Officiella kokböcker](#c-cookbooks) · [🎨 Kreativa promptar](#c-creative) · [🧪 Utvärdering och verktyg](#c-evaluation) · [📺 Videor](#c-videos)
 
 **🔗**
 
@@ -35,7 +35,7 @@ https://github.com/Supersynergy/awesome-prompts
 
 <a id="c-libraries"></a>
 <details open>
-<summary><strong>📚 Promptbibliotek · 7</strong></summary>
+<summary><strong>📚 Promptbibliotek · 9</strong></summary>
 
 - **[prompts.chat](https://github.com/f/prompts.chat)**<br>
   Community prompt discovery and sharing; formerly Awesome ChatGPT Prompts.
@@ -57,6 +57,12 @@ https://github.com/Supersynergy/awesome-prompts
 
 - **[harish-garg/gemini-cli-prompt-library](https://github.com/harish-garg/gemini-cli-prompt-library)**<br>
   Prompt templates for development tasks in Gemini CLI.
+
+- **[google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list)**<br>
+  Prompt collection for the Jules coding agent.
+
+- **[rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)**<br>
+  Searchable AI prompt library.
 
 </details>
 
@@ -110,7 +116,7 @@ https://github.com/Supersynergy/awesome-prompts
 
 <a id="c-creative"></a>
 <details open>
-<summary><strong>🎨 Kreativa promptar · 4</strong></summary>
+<summary><strong>🎨 Kreativa promptar · 6</strong></summary>
 
 - **[Awesome Nano Banana Pro Prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**<br>
   Image prompt examples with previews.
@@ -124,11 +130,17 @@ https://github.com/Supersynergy/awesome-prompts
 - **[Awesome Seedance 2 Prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**<br>
   Video prompt collection.
 
+- **[Evolink-AI/awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts)**<br>
+  GPT Image 2 prompt and API examples.
+
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)**<br>
+  Image prompt examples and reusable templates.
+
 </details>
 
 <a id="c-evaluation"></a>
 <details open>
-<summary><strong>🧪 Utvärdering och verktyg · 5</strong></summary>
+<summary><strong>🧪 Utvärdering och verktyg · 6</strong></summary>
 
 - **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)**<br>
   Prompt, agent and retrieval evaluation and red teaming.
@@ -144,6 +156,20 @@ https://github.com/Supersynergy/awesome-prompts
 
 - **[pisterlabs/promptset](https://github.com/pisterlabs/promptset)**<br>
   Research dataset of developer prompts.
+
+- **[microsoft/prompty](https://github.com/microsoft/prompty)**<br>
+  Tools to create, manage, debug and evaluate LLM prompts.
+
+</details>
+
+<a id="c-videos"></a>
+<details open>
+<summary><strong>📺 Videor · 1</strong></summary>
+
+> Utvalda videor, inte en uppmätt trendrankning.
+
+- **[Context Engineering vs. Prompt Engineering](https://www.youtube.com/watch?v=vD0E3EUb8-8)**<br>
+  IBM Technology explains prompt and context engineering.
 
 </details>
 
