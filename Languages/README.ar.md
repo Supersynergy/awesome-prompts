@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="../assets/hero.png" alt="Awesome Prompts" width="960">
+</p>
+
 # Awesome Prompts
 
-![Awesome Prompts](../assets/hero.png)
 
 <details>
 <summary><strong>🌍 Languages · Sprachen · 18</strong></summary>
