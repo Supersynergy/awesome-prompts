@@ -44,6 +44,9 @@ https://github.com/Supersynergy/awesome-prompts
 - **[ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts)**<br>
   Prompts and research for LLMs and agents.
 
+- **[Reggiebro/oppi-digital-products](https://github.com/Reggiebro/oppi-digital-products)**<br>
+  Freelancer prompt pack (30+ prompts), Notion CRM kit and content repurposing pack; free sample excerpts to test before buying.
+
 - **[langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts)**<br>
   Claude prompt collection.
 
